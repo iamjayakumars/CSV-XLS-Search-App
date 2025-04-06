@@ -31,6 +31,8 @@ A powerful desktop application for searching, analyzing, and visualizing data in
    ```bash
    python Code_V1.py
    ```
+![Screenshot](Screenshot.jpg)
+
 
 ## Usage
 
